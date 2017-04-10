@@ -1,0 +1,22 @@
+Android ROM dumper v0.72b
+(c)2010 Sebastian404
+
+*So you've decided to <strike>steal cable</strike> dump your ROM*
+
+
+/Myth: Dumping your ROM is wrong.
+Fact: Google is a big faceless corporation, which makes it okay.../
+
+romdump is a (very) simple program that dumps the BOOT, RECOVERY and
+SYSTEM partitions to your SDCARD, this will allow someone who is
+technicaly minded to create a recovery image... and that is a GOOD thing...
+
+DOWNLOAD HERE <http://android.podtwo.com/romdump/romdump.zip>
+
+Once you have downloaded and unziped the file you will have an 'install'
+file, now its time to goto work. There are two ways to proceed...
+
+
+*Method One* - /ADB/
+
+ADB stands for Android Debug Bridge, and is something you re
